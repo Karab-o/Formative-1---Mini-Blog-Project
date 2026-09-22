@@ -1,0 +1,27 @@
+# Dependencies (never commit these - `npm install` recreates them)
+node_modules/
+
+# Build output
+dist/
+coverage/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor / OS files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local tool folders
+.kilo/
+
+# Environment files
+.env
+.env.local
+
+# Personal step-by-step guide (not part of the submission)
+GIT_GUIDE.md
