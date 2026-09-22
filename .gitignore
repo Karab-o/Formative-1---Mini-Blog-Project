@@ -16,12 +16,6 @@ npm-debug.log*
 .DS_Store
 Thumbs.db
 
-# Local tool folders
-.kilo/
-
 # Environment files
 .env
 .env.local
-
-# Personal step-by-step guide (not part of the submission)
-GIT_GUIDE.md
