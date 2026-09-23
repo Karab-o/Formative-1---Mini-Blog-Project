@@ -97,4 +97,4 @@ It is applied to `Post` and `PostList`, so changing the author filter shows the 
 | `vitest`, `jsdom` | Test runner and browser-like test environment |
 | `@testing-library/react`, `@testing-library/dom`, `@testing-library/jest-dom` | Rendering, querying and DOM matchers in tests |
 
-No CSS framework or CSS-in-JS library is used.
+
